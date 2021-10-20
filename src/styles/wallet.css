@@ -1,0 +1,27 @@
+.form-wallet-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px;
+  font-family: monospace;
+}
+
+.inputs-wallet {
+  border: 1px solid black;
+  background-color: rgb(255, 255, 255);
+}
+
+.button-wallet {
+  display: flex;
+  justify-content: end;
+  margin: 8px 5px 0px 0px;
+}
+
+button {
+  background-color:white;
+  border: 1px solid black;
+}
+
+input {
+  background-color: white;
+  border: 1px solid black;
+}
